@@ -1,0 +1,53 @@
+body {
+    background-image: url("matrix.png");
+}
+
+.Container {
+    padding: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+.img_list {
+    margin-top: 50px;
+    min-width: 100%;
+    margin-left: 15%;
+    margin-right: 50%;
+    position: relative;
+    right: 180px;
+    align-items: center;
+    /* left: 10px; */
+    transform: scaleX(90%);
+}
+
+.button {
+    background-color: silver;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    /* justify-content: center; */
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+#fhaz {      
+    margin-left: 45%;
+}
+
+.imgs {
+    border: solid;
+    border-color: grey;
+    margin-right: 5px
+}
+#logo {
+    margin-left: 50%;
+    display:block;
+
+}
